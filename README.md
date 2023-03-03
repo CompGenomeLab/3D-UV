@@ -14,6 +14,9 @@ TAD calling is performed using Arrowhead with default parameters using script in
 TADs and contact matrices are first processed with `3d-preprocess.sh` by following procedure in [here](https://www.nature.com/articles/nprot.2018.009).
 Then Chrom3D used for generating 3D genome models via `3d-model.sh`
 
+- Simulated datasets are created with boquila via `simulation.sh`.
+
+
 - Downstream analysis
 
 
